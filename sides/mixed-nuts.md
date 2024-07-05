@@ -3,7 +3,7 @@
 ## Ingredients
 
 - IDC
-- Ingredient 2
+- 666
 
 
 ## Instructions
